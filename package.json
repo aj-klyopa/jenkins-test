@@ -25,12 +25,11 @@
     "supertest": "^6.2.4"
   },
   "jest": {
-     "moduleDirectories": [
-	 "/opt/Dev/Jenkins/jenkins-test/node_modules/",
-	 "/opt/Dev/Jenkins/jenkins-test/node_modules/superagent/node_modules/",
-         "/opt/Dev/Jenkins/jenkins-test/__test__/",
-         "/opt/Dev/Jenkins/jenkins-test/"
-      ]	
+    "moduleDirectories": [
+      "/opt/Dev/Jenkins/jenkins-test/node_modules/",
+      "/opt/Dev/Jenkins/jenkins-test/node_modules/superagent/node_modules/",
+      "/opt/Dev/Jenkins/jenkins-test/__test__/",
+      "/opt/Dev/Jenkins/jenkins-test/"
+    ]
   }
-
 }
